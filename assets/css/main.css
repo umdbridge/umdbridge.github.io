@@ -1650,7 +1650,7 @@
 	}
 
 	body {
-		background: #312450;
+		background: #2f2f2f;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -3289,11 +3289,11 @@
 		}
 
 		.wrapper.style2 {
-			background-color: #5052b5;
+			background-color: #262626;
 		}
 
 		.wrapper.style2-alt {
-			background-color: #3e4094;
+			background-color: #2f2f2f;
 		}
 
 		.wrapper.style3 {
@@ -3408,7 +3408,7 @@
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #5052b5;
+		background-color: #202020;
 		cursor: default;
 		padding: 1.75em 2em;
 	}
@@ -3542,7 +3542,7 @@
 		}
 
 	#footer > .inner a {
-		border-bottom-color: rgba(255, 255, 255, 0.15);
+		border-bottom-color: rgba(255, 255, 255, 1);
 	}
 
 		#footer > .inner a:hover {
@@ -3551,7 +3551,7 @@
 
 	#footer > .inner .menu {
 		font-size: 0.8em;
-		color: rgba(255, 255, 255, 0.15);
+		color: rgba(255, 255, 255, 1);
 	}
 
 	#header + #wrapper + #footer > .inner {
@@ -3562,7 +3562,7 @@
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #312450;
+		background: #990000;
 		cursor: default;
 		height: 100vh;
 		left: 0;
@@ -3775,7 +3775,7 @@
 			-ms-transition: color 0.2s ease;
 			transition: color 0.2s ease;
 			border: 0;
-			color: rgba(255, 255, 255, 0.35);
+			color: rgba(255, 255, 255, 0.5);
 			display: block;
 			font-size: 0.6em;
 			font-weight: bold;
